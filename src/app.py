@@ -2,8 +2,8 @@
 import random
 
 # Elegimos el alto y el ancho que queremos que en este caso nos lo dan en el enunciado los valores máximos y mínimos
-alto = random.randint(3, 1000)              # Limites fijados por el enunciado, se pueden cambiar para ir probando combinaciones diferentes o más pequeñas
-ancho = random.randint(3, 1000)
+alto = random.randint(3, 1001)              # Limites fijados por el enunciado, se pueden cambiar para ir probando combinaciones diferentes o más pequeñas
+ancho = random.randint(3, 1001)
 
 array = []
 labyrinth = []
